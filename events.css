@@ -1,0 +1,28 @@
+button {
+	display: block;
+}
+
+.blue {
+	color: blue;
+}
+
+.hulk {
+	font-size: 2em;
+}
+
+.captured {
+	border: 1px solid black;
+}
+
+.rounded {
+	border-radius: 20%;
+}
+
+#bolder {
+	font-weight: 700;
+}
+
+#bolderlined {
+	font-weight: 700;
+	text-decoration: underline;
+}
